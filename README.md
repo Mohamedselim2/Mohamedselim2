@@ -1,15 +1,17 @@
 <h1 align= "center"><b>Salve Folks! 👾, Meem-Seen is here 💀</b></h1>
 <!-- ![Profile Banner](path/to/your/banner/image) -->
 
+<!-- ## About Me -->
+
+A **Data Analyst**, **Laravel Back-end Developer**, and **Programming Instructor**. My data is my canvas.
+My work is known for its creativity and strong analytics to make correct decisions.
+
+
 <div align= "center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Aref+Ruqaa&size=40&pause=1000&color=00F737&center=true&vCenter=true&width=435&height=55&lines=%D9%85%D9%80%D9%8A%D9%80%D9%85+%D8%B3%D9%8A%D9%80%D9%86)](https://git.io/typing-svg)
 
 </div>
-<!-- ## About Me -->
-
-A **Data Analyst**, **Laravel Back-end Developer**, and **Programming Instructor**. My data is my canvas.
-My work is known for its creativity and strong analytics to make correct decisions.
 
 <!-- ### 🔭 Current Role
 - **Google DSC Lead**
