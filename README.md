@@ -51,7 +51,7 @@ My work is known for its creativity and strong analytics to make correct decisio
 ---
 
 ### Hobbies and Interests
-- 🕌 Muslim, Humble man, and support the the liberation of palestine 🇵🇸
+- 🕌 Muslim, Humble man, and support the the liberation of Palestine 🇵🇸
 - 🎮 Playing CS2, Valorant, and Hitman 3
 - 📖 Reading about the latest trends in computer fundamentals, data science and technology
 <!-- 
