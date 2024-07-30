@@ -1,6 +1,8 @@
 <h1 align= "center"><b>Salve Folks! 👾, Meem-Seen is here 💀</b></h1>
 <!-- ![Profile Banner](path/to/your/banner/image) -->
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Aref+Ruqaa&size=25&pause=1000&color=00F737&center=true&vCenter=true&width=435&lines=%D9%85%D9%80%D9%8A%D9%80%D9%85+%D8%B3%D9%8A%D9%80%D9%86)](https://git.io/typing-svg)
+
 <!-- ## About Me -->
 
 A **Data Analyst**, **Laravel Back-end Developer**, and **Programming Instructor**. My data is my canvas.
