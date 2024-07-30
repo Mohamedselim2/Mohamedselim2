@@ -1,7 +1,7 @@
 <h1 align= "center"><b>Salva Folk! 👾, Meem-Seen is here 💀</b></h1>
 <!-- ![Profile Banner](path/to/your/banner/image) -->
 
-## About Me
+<!-- ## About Me -->
 
 I am a **Data Analyst**, **Laravel Back-end Developer**, and **Programming Instructor**. My data is my canvas.
 My work is known for its creativity and strong analytics to make correct decisions.
