@@ -12,12 +12,13 @@ My work is known for its creativity and strong analytics to make correct decisio
   - Created 5+ full courses -->
 
 ### 💡 Skills
-- **Programming Languages:** Python, SQL, PHP (Laravel)
+- **Technical skills:** Problem-solving, Data structure, Algorithms, SOLID principles, Design patterns, APIs & Web scraping
+- **Programming Languages:** C++, Python, HTML5, CSS, SQL, PHP Laravel
 - **Tools & Technologies:** Tableau, Power BI, Git, Jupyter
 - **Data Analysis:** Data Cleaning, Data Visualization, Statistical Analysis
 
 ### 🌱 Education
-- **Computer Science Student** (Big Data Major)
+- **Faculty of Computer Science** (Big Data Major)
 - **Data Analyst Trainee** at DEPI for the Ministry of Communications and IT
 - **IBM Data Science Professional Certificate**
 <!-- 
@@ -50,8 +51,9 @@ My work is known for its creativity and strong analytics to make correct decisio
 ---
 
 ### Hobbies and Interests
+- 🕌 Muslim, Humble man, and support the the liberation of palestine 🇵🇸
 - 🎮 Playing CS2, Valorant, and Hitman 3
-- 📖 Reading about the latest trends in computer fundmerntal, data science and technology
+- 📖 Reading about the latest trends in computer fundamentals, data science and technology
 <!-- 
 Thank you for visiting my profile! Feel free to reach out if you'd like to collaborate on a project or just want to chat about data science and development. -->
 
