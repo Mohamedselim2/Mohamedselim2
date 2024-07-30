@@ -31,7 +31,8 @@ My work is known for its creativity and strong analytics to make correct decisio
 - **Customer Churn Analysis for Telecom Company**
   - **Description:** Analyzed customer data to identify factors contributing to churn using Python and SQL. Created visualizations in Tableau.
   - **Achievements:** Reduced churn rate by 10% through targeted recommendations. -->
-
+<div align= "center">
+  
 ## Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meemseen)
@@ -44,6 +45,7 @@ My work is known for its creativity and strong analytics to make correct decisio
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohamedselim2&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedselim2&layout=compact&theme=radical)
+</div>
 
 ---
 
