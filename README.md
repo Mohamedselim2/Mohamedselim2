@@ -3,7 +3,7 @@
 
 <!-- ## About Me -->
 
-I am a **Data Analyst**, **Laravel Back-end Developer**, and **Programming Instructor**. My data is my canvas.
+A **Data Analyst**, **Laravel Back-end Developer**, and **Programming Instructor**. My data is my canvas.
 My work is known for its creativity and strong analytics to make correct decisions.
 
 <!-- ### 🔭 Current Role
