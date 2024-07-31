@@ -1,4 +1,4 @@
-<h1 align= "center"><b>Salve Folks! 👾, Meem-Seen is here 💀</b></h1>
+<h1 align= "center"><b>Salve Folks! 👾, Here is <b>Meem-Seen</b> 💀</b></h1>
 <!-- ![Profile Banner](path/to/your/banner/image) -->
 
 <!-- ## About Me -->
@@ -25,7 +25,7 @@ My work is known for its creativity and strong analytics to make correct decisio
 - **Data Analysis:** Data Cleaning, Data Visualization, Statistical Analysis
 
 ### 🌱 Education
-- **Faculty of Computer Science** (Big Data Major)
+- **Faculty of Computer Science and information system** (Big Data Major)
 - **Data Analyst Trainee** at DEPI for the Ministry of Communications and IT
 - **IBM Data Science Professional Certificate**
 <!-- 
@@ -58,7 +58,7 @@ My work is known for its creativity and strong analytics to make correct decisio
 ---
 
 ### Hobbies and Interests
-- 🕌 Muslim, Humble man, and support the the liberation of Palestine 🇵🇸
+- 🕌 Muslim, Humble man, and support the liberation of Palestine 🇵🇸
 - 🎮 Playing CS2, Valorant, and Hitman 3
 - 📖 Reading about the latest trends in computer fundamentals, data science and technology
 <!-- 
