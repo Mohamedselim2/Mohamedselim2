@@ -1,4 +1,4 @@
-<h1 align= "center"><b>Salve Folks! 👾, Here is <b>Meem-Seen</b> 💀</b></h1>
+<h1 align= "center"><b>Salve Folks! 👾, Here is Meem-Seen 💀</b></h1>
 <!-- ![Profile Banner](path/to/your/banner/image) -->
 
 <!-- ## About Me -->
