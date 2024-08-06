@@ -29,6 +29,32 @@ My work is known for its creativity and strong analytics to make correct decisio
 - **Data Analyst Trainee** at DEPI for the Ministry of Communications and IT
 - **IBM Data Science Professional Certificate**
 
+
+
+
+### Languages:
+| C++ | PHP | Python | HTML | CSS | Laravel |
+|----------|----------|----------|----------|----------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="60" height="60"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="60" height="60"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="60" height="60"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="60" height="60"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="60" height="60"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" title="Laravel" alt="Laravel" width="60" height="60"/> |
+
+### Database:
+
+| MySql | MS SQL | PostgreSQL | MongoDB |
+|----------|----------|----------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="60" height="60"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="MS SQL" alt="MS SQL" width="60" height="60"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="60" height="60"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="60" height="60"/> |
+
+
+### Environments, Testing, Other:
+
+| Git | Postman | VBox | Gitlab | Node js | Composer | Trello | Slack
+|----------|----------|----------|----------|----------|----------|----------|----------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="55" height="55"/>|<img src="https://banner2.cleanpng.com/20190501/xvt/kisspng-computer-icons-virtualbox-portable-network-graphic-virtualbox-icon-of-line-style-available-in-svg-5cca247f73f9e3.6112721115567514874751.jpg" title="Postman" alt="Postman" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="Nodejs" alt="Nodejs" width="60" height="60"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Nodejs" alt="Nodejs" width="60" height="60"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg" title="Composer" alt="Composer" width="60" height="60"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" title="Trello" alt="Trello" width="60" height="60"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Trello" alt="Trello" width="60" height="60"/>|
+
+| Git | VMBox | Composer | Slack | Discord |
+|----------|----------|----------|----------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Virtualbox_logo.png/600px-Virtualbox_logo.png" title="VMBox" alt="VMBox" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg" title="Composer" alt="Composer" width="60" height="60"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" alt="Slack" width="60" height="60"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-original.svg" title="Discord" alt="Discord" width="60" height="60"/> |
+
+
 <!-- 
 ### 🏆 Achievements
 - Conducted 30+ sessions to teach newcomers the fundamentals of programming and problem-solving
@@ -50,10 +76,8 @@ My work is known for its creativity and strong analytics to make correct decisio
 <!-- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohamedselim2)  -->
 ![Profile Views](https://komarev.com/ghpvc/?username=Mohamedselim2&color=brightgreen)
 
+
 ## Statistics 
-
-
-
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohamedselim2&show_icons=true&theme=radical)  -->
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedselim2&theme=vision-friendly-dark)
