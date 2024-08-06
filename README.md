@@ -28,6 +28,7 @@ My work is known for its creativity and strong analytics to make correct decisio
 - **Faculty of Computer Science and information system** (Big Data Major)
 - **Data Analyst Trainee** at DEPI for the Ministry of Communications and IT
 - **IBM Data Science Professional Certificate**
+
 <!-- 
 ### 🏆 Achievements
 - Conducted 30+ sessions to teach newcomers the fundamentals of programming and problem-solving
@@ -49,11 +50,20 @@ My work is known for its creativity and strong analytics to make correct decisio
 <!-- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohamedselim2)  -->
 ![Profile Views](https://komarev.com/ghpvc/?username=Mohamedselim2&color=brightgreen)
 
+## Statistics 
+
+
 
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohamedselim2&show_icons=true&theme=radical)  -->
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedselim2&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedselim2&theme=vision-friendly-dark)
 </div>
+
+
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamedselim2&theme=vision-friendly-dark" alt="GitHub Streak" />
+</p>
 
 ---
 
