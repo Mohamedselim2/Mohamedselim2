@@ -11,6 +11,7 @@ My work is known for its creativity and strong analytics to make correct decisio
 
 </div>
 
+<div align= "center">
 
 ### Skills:
 | C++ | PHP | Python | HTML | CSS | Laravel |
@@ -25,11 +26,10 @@ My work is known for its creativity and strong analytics to make correct decisio
 
 | Git | VM Box | Composer | Slack |
 |----------|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/> |<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fsearch%3Fq%3Dvirtualbox&psig=AOvVaw3yq7vgAUg7orsNcXCHeFOL&ust=1723060640552000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCAh5yT4YcDFQAAAAAdAAAAABAJ" title="VM" alt="VM" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg" title="Composer" alt="Composer" width="60" height="60"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" alt="Slack" width="60" height="60"/> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/> |<img src="https://banner2.cleanpng.com/20190501/xvt/kisspng-computer-icons-virtualbox-portable-network-graphic-virtualbox-icon-of-line-style-available-in-svg-5cca247f73f9e3.6112721115567514874751.jpg" title="VM" alt="VM" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg" title="Composer" alt="Composer" width="60" height="60"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" alt="Slack" width="60" height="60"/> |
 
 
 
-<div align= "center">
 
 ## Get in Touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meemseen)
