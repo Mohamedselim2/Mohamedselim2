@@ -5,6 +5,7 @@ A **Data Analyst**, **Laravel Back-end Developer**, and **Programming Instructor
 My work is known for its creativity and strong analytics to make correct decisions.
 
 
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Aref+Ruqaa&size=40&pause=1000&color=00F737&center=true&vCenter=true&width=435&height=55&lines=%D9%85%D9%80%D9%8A%D9%80%D9%85+%D8%B3%D9%8A%D9%80%D9%86)](https://git.io/typing-svg)
 
 
@@ -30,7 +31,8 @@ My work is known for its creativity and strong analytics to make correct decisio
 
 | Excel | Power BI | Tableau |
 |----------|----------|----------|
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013_logo.svg/1024px-Microsoft_Excel_2013_logo.svg.png" title="Excel" alt="Excel" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" title="Power BI" alt="Power BI" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/tableau/tableau-original.svg" title="Tableau" alt="Tableau" width="55" height="55"/> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/excel/excel-original.svg" title="Excel" alt="Excel" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" title="Power BI" alt="Power BI" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/tableau/tableau-original.svg" title="Tableau" alt="Tableau" width="55" height="55"/> |
+
 
 | Windows | Linux | Ubuntu |
 |----------|----------|----------|
