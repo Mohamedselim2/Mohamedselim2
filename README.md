@@ -5,7 +5,6 @@ A **Data Analyst**, **Laravel Back-end Developer**, and **Programming Instructor
 My work is known for its creativity and strong analytics to make correct decisions.
 
 
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Aref+Ruqaa&size=40&pause=1000&color=00F737&center=true&vCenter=true&width=435&height=55&lines=%D9%85%D9%80%D9%8A%D9%80%D9%85+%D8%B3%D9%8A%D9%80%D9%86)](https://git.io/typing-svg)
 
 
