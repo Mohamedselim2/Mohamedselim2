@@ -31,7 +31,8 @@ My work is known for its creativity and strong analytics to make correct decisio
 
 | Excel | Power BI | Tableau |
 |----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/excel/excel-original.svg" title="Excel" alt="Excel" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" title="Power BI" alt="Power BI" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/tableau/tableau-original.svg" title="Tableau" alt="Tableau" width="55" height="55"/> |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013_logo.svg/1024px-Microsoft_Excel_2013_logo.svg.png" title="Excel" alt="Excel" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" title="Power BI" alt="Power BI" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/tableau/tableau-original.svg" title="Tableau" alt="Tableau" width="55" height="55"/> |
+
 
 
 | Windows | Linux | Ubuntu |
