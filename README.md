@@ -32,6 +32,9 @@ My work is known for its creativity and strong analytics to make correct decisio
 |----------|----------|----------|
 | <img src="https://github.com/sempostma/office365-icons/blob/master/png/64/excel.png" title="Excel" alt="Excel" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" title="Power BI" alt="Power BI" width="55" height="55"/> | <img src="https://user-images.githubusercontent.com/57473810/120269504-f312f480-c275-11eb-9c0a-46255b2dc752.png" title="Tableau" alt="Tableau" width="55" height="55"/> |
 
+| Windows | Linux | Ubuntu |
+|----------|----------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="60" height="60"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="60" height="60"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="60" height="60"/> |
 
 ## Get in Touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meemseen)
