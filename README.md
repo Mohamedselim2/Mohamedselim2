@@ -48,7 +48,7 @@ My work is known for its creativity and strong analytics to make correct decisio
 </div>
 <div align="center">
     <img width="12" />
-    <img src="https://github.com/sempostma/office355-icons/blob/master/png/64/excel.png" height="55" alt="excel logo"/>
+    <img src="https://github.com/sempostma/office365-icons/blob/master/png/64/excel.png" height="55" alt="excel logo"/>
     <img width="12" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="55" alt="Power_BI logo"/>
     <img width="12" />
