@@ -11,7 +11,14 @@ My work is known for its creativity and strong analytics to make correct decisio
 
 </div>  
 
-<div align="center" >
+###
+
+<div align="center"  >
+
+### Skills:
+</div>
+
+<div align="center"  >
     <img width="12" />
     <img src="https://skillicons.dev/icons?i=cpp" height="55" alt="C++ logo"  />
     <img width="12" />
@@ -66,6 +73,8 @@ My work is known for its creativity and strong analytics to make correct decisio
     <img width="12" />
     <img src="https://skillicons.dev/icons?i=npm" height="55" alt="npm logo"/>
 </div>
+
+###
 
 ## Get in Touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meemseen)
