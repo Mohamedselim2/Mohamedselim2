@@ -13,7 +13,7 @@ My work is known for its creativity and strong analytics to make correct decisio
 
 <div align="center" >
     <img width="20" />
-    <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++ logo"  />
+    <img src="https://skillicons.dev/icons?i=cpp" height="70" alt="C++ logo"  />
     <img width="20" />
     <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
     <img width="20" />
