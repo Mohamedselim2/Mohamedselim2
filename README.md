@@ -29,6 +29,8 @@ My work is known for its creativity and strong analytics to make correct decisio
     <img width="12" />
     <img src="https://skillicons.dev/icons?i=mysql" height="65" alt="mysql logo"  />
     <img width="12" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="65" alt="mssql logo"  />
+    <img width="12" />
     <img src="https://skillicons.dev/icons?i=postgres" height="65" alt="postgresql logo"  />
     <img width="12" />
     <img src="https://skillicons.dev/icons?i=sqlite" height="65" alt="sqlite logo"  />
@@ -41,6 +43,16 @@ My work is known for its creativity and strong analytics to make correct decisio
     <img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg" height="65" alt="composer logo"/>
     <img width="12" />
     <img src="https://skillicons.dev/icons?i=discord" height="65" alt="discord logo"/>
+    <img width="12" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" height="65" alt="slack logo"/>
+</div>
+<div align="center">
+    <img width="12" />
+    <img src="https://github.com/sempostma/office365-icons/blob/master/png/64/excel.png" height="65" alt="excel logo"/>
+    <img width="12" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="65" alt="Power_BI logo"/>
+    <img width="12" />
+    <img src="https://user-images.githubusercontent.com/57473810/120269504-f312f480-c275-11eb-9c0a-46255b2dc752.png" height="65" alt="discord logo"/>
 </div>
 <div align="center">
     <img width="12" />
