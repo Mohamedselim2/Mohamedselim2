@@ -9,36 +9,51 @@ My work is known for its creativity and strong analytics to make correct decisio
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Aref+Ruqaa&size=40&pause=1000&color=00F737&center=true&vCenter=true&width=435&height=55&lines=%D9%85%D9%80%D9%8A%D9%80%D9%85+%D8%B3%D9%8A%D9%80%D9%86)](https://git.io/typing-svg)
 
 
+</div>  
+
+<div align="center" >
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++ logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="php logo"  />
 </div>
-
-<div align= "center">
-
-### Skills:
-| C++ | PHP | Python | HTML | CSS | Laravel |
-|----------|----------|----------|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="60" height="60"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="60" height="60"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="60" height="60"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="60" height="60"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="60" height="60"/> |  <img src="https://github.com/laravel/art/blob/master/logo-mark/4%20PNG/3%20RGB/1%20Full%20Color/laravel-mark-rgb-red.png" title="Laravel" alt="Laravel" width="60" height="60"/> |
-
-
-| MySql | MS SQL | PostgreSQL | MongoDB |
-|----------|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="60" height="60"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="MS SQL" alt="MS SQL" width="60" height="60"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="60" height="60"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="60" height="60"/> |
-
-
-| Git | VM Box | Composer | Slack |
-|----------|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/> |<img src="https://banner2.cleanpng.com/20190501/xvt/kisspng-computer-icons-virtualbox-portable-network-graphic-virtualbox-icon-of-line-style-available-in-svg-5cca247f73f9e3.6112721115567514874751.jpg" title="VM" alt="VM" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg" title="Composer" alt="Composer" width="60" height="60"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" alt="Slack" width="60" height="60"/> |
-
-
-| Excel | Power BI | Tableau |
-|----------|----------|----------|
-| <img src="https://github.com/sempostma/office365-icons/blob/master/png/64/excel.png" title="Excel" alt="Excel" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" title="Power BI" alt="Power BI" width="55" height="55"/> | <img src="https://user-images.githubusercontent.com/57473810/120269504-f312f480-c275-11eb-9c0a-46255b2dc752.png" title="Tableau" alt="Tableau" width="55" height="55"/> |
-
-
-
-| Windows | Linux | Ubuntu |
-|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="60" height="60"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="60" height="60"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="60" height="60"/> |
-
+<div align="center">
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"/>
+<div align="center">
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"/>
+    <img width="12" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg" height="40" alt="composer logo"/>
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"/>
+</div>
+<div align="center">
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=windows" height="40" alt="windows logo"/>
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"/>
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=ubuntu" height="40" alt="ubuntu logo"/>
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"/>
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=npm" height="40" alt="npm logo"/>
+</div>
 
 
 ## Get in Touch
