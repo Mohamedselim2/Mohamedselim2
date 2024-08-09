@@ -12,47 +12,47 @@ My work is known for its creativity and strong analytics to make correct decisio
 </div>  
 
 <div align="center" >
-    <img width="20" />
-    <img src="https://skillicons.dev/icons?i=cpp" height="70" alt="C++ logo"  />
-    <img width="20" />
-    <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-    <img width="20" />
-    <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-    <img width="20" />
-    <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
-    <img width="20" />
-    <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
-    <img width="20" />
-    <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="php logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=cpp" height="65" alt="C++ logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=py" height="65" alt="python logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=html" height="65" alt="html5 logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=css" height="65" alt="css logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=php" height="65" alt="php logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=laravel" height="65" alt="php logo"  />
 </div>
 <div align="center">
-    <img width="20" />
-    <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-    <img width="20" />
-    <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-    <img width="20" />
-    <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
-    <img width="20" />
-    <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"/>
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=mysql" height="65" alt="mysql logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=postgres" height="65" alt="postgresql logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=sqlite" height="65" alt="sqlite logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=mongodb" height="65" alt="mongodb logo"/>
 <div align="center">
-    <img width="20" />
-    <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"/>
-    <img width="20" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg" height="40" alt="composer logo"/>
-    <img width="20" />
-    <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"/>
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=git" height="65" alt="git logo"/>
+    <img width="12" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg" height="65" alt="composer logo"/>
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=discord" height="65" alt="discord logo"/>
 </div>
 <div align="center">
-    <img width="20" />
-    <img src="https://skillicons.dev/icons?i=windows" height="40" alt="windows logo"/>
-    <img width="20" />
-    <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"/>
-    <img width="20" />
-    <img src="https://skillicons.dev/icons?i=ubuntu" height="40" alt="ubuntu logo"/>
-    <img width="20" />
-    <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"/>
-    <img width="20" />
-    <img src="https://skillicons.dev/icons?i=npm" height="40" alt="npm logo"/>
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=windows" height="65" alt="windows logo"/>
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=linux" height="65" alt="linux logo"/>
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=ubuntu" height="65" alt="ubuntu logo"/>
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=powershell" height="65" alt="powershell logo"/>
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=npm" height="65" alt="npm logo"/>
 </div>
 
 
