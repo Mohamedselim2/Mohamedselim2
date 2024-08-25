@@ -1,8 +1,8 @@
 <h1 align= "center"><b>Salve Folks! 👾, Here is Meem-Seen 💀</b></h1>
 <div align= "center">
   
-A **Data Analyst**, **Laravel Back-end Developer**, and **Programming Instructor**. My data is my canvas.
-My work is known for its creativity and strong analytics to make correct decisions.
+A **Data Analyst**, **Laravel Back-end Developer**, and **Programming Instructor**. <p> The data is my canvas. </p>
+<p> My work is known for its creativity and strong analytics to make correct decisions. </p>
 
 
 
