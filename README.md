@@ -70,8 +70,6 @@ A **Data Analyst**, **Laravel Back-end Developer**, and **Programming Instructor
     <img src="https://skillicons.dev/icons?i=ubuntu" height="55" alt="ubuntu logo"/>
     <img width="12" />
     <img src="https://skillicons.dev/icons?i=powershell" height="55" alt="powershell logo"/>
-    <img width="12" />
-    <img src="https://skillicons.dev/icons?i=npm" height="55" alt="npm logo"/>
 </div>
 
 ###
