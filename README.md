@@ -3,6 +3,7 @@
   
 A **Data Analyst**, **Laravel Back-end Developer**, and **Programming Instructor**. 
 <p> Data is my canvas. My work is known for its creativity and strong analytics to make correct decisions. </p>
+
 Take a look at my projects on [**my portfolio**](https://moselim.tech/)!.
 
 
