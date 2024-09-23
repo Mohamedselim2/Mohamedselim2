@@ -3,7 +3,7 @@
   
 A **Data Analyst**, **Laravel Back-end Developer**, and **Programming Instructor**. 
 <p> Data is my canvas. My work is known for its creativity and strong analytics to make correct decisions. </p>
-
+<p> Take a look at my projects on my <a href = "https://moselim.tech/"></a> portfolio!</a>.</p>
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Aref+Ruqaa&size=40&pause=1000&color=00F737&center=true&vCenter=true&width=435&height=55&lines=%D9%85%D9%80%D9%8A%D9%80%D9%85+%D8%B3%D9%8A%D9%80%D9%86)](https://git.io/typing-svg)
