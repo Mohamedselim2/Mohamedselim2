@@ -1,7 +1,7 @@
 <h1 align= "center"><b>Salve Folks! 👾, Here is Meem-Seen 💀</b></h1>
 <div align= "center">
   
-A **Data Analyst**, **Laravel Back-end Developer**, and **Programming Instructor**. 
+A **Data Intelligence Engineer**, **Data Analyst specialist**, and **Laravel Back-end Developer**. 
 <p> Data is my canvas. My work is known for its creativity and strong analytics to make correct decisions. </p>
 
 Take a look about me on [**my portfolio**](https://moselim.tech/)!
