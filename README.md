@@ -47,11 +47,8 @@ Take a look about me on [**my portfolio**](https://meem-seen.me/)!
     <img src="https://skillicons.dev/icons?i=git" height="55" alt="git logo"/>
     <img width="12" />
     <img src="https://skillicons.dev/icons?i=discord" height="55" alt="discord logo"/>
-</div>
-<div align="center">
     <img width="12" />
     <img src="https://github.com/sempostma/office365-icons/blob/master/png/64/excel.png" height="55" alt="excel logo"/>
-</div>
 <div align="center">
     <img width="12" />
     <img src="https://skillicons.dev/icons?i=windows" height="55" alt="windows logo"/>
