@@ -37,8 +37,6 @@ Take a look about me on [**my portfolio**](https://meem-seen.me/)!
     <img width="12" />
     <img src="https://skillicons.dev/icons?i=mysql" height="55" alt="mysql logo"  />
     <img width="12" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="55" alt="mssql logo"  />
-    <img width="12" />
     <img src="https://skillicons.dev/icons?i=postgres" height="55" alt="postgresql logo"  />
     <img width="12" />
     <img src="https://skillicons.dev/icons?i=sqlite" height="55" alt="sqlite logo"  />
@@ -48,17 +46,11 @@ Take a look about me on [**my portfolio**](https://meem-seen.me/)!
     <img width="12" />
     <img src="https://skillicons.dev/icons?i=git" height="55" alt="git logo"/>
     <img width="12" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg" height="55" alt="composer logo"/>
-    <img width="12" />
     <img src="https://skillicons.dev/icons?i=discord" height="55" alt="discord logo"/>
-    <img width="12" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" height="55" alt="slack logo"/>
 </div>
 <div align="center">
     <img width="12" />
     <img src="https://github.com/sempostma/office365-icons/blob/master/png/64/excel.png" height="55" alt="excel logo"/>
-    <img width="12" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="55" alt="Power_BI logo"/>
 </div>
 <div align="center">
     <img width="12" />
